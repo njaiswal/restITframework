@@ -1,0 +1,8 @@
+---
+schemas:
+    - id: Equities list
+      file: "/schemas/equities_schema.json"
+      regex: "^.*/equities$"
+    - id: Live Equities list
+      file: "/schemas/liveEquities_schema.json"
+      regex: "^.*/live$"
