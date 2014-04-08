@@ -1,0 +1,10 @@
+---
+baseurl: 'http://apis.michaelkwayisi.com/gse'
+services:
+    # All live Equities
+    - /live
+    # All Equities
+    - /equities
+    # Equities symbol details
+    #- /equities/CAL
+    #- /equities/GLD
