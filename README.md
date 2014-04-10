@@ -11,7 +11,7 @@ Steps to make use of this framework.
 -----------------------------------
 
 1. Git clone the project.
-git clone git@github.com:njaiswal/restIT.git restIT
+git clone git@github.com:njaiswal/restITframework.git restIT
 
 2. Import the project in eclipse or your fav ID as existing maven project.
 
@@ -35,7 +35,10 @@ To run:
   
     mvn test
     
-To view reports: target/surefire-reports/index.html
+To view reports: 
+    
+    target/surefire-reports/index.html
+
 Make sure to check the 'Reporter Output' tab for any JSON schema validation error reports.
 
 Enjoy.
