@@ -11,7 +11,8 @@ Steps to make use of this framework.
 -----------------------------------
 
 1. Git clone the project.
-git clone git@github.com:njaiswal/restITframework.git restIT
+
+    git clone git@github.com:njaiswal/restITframework.git restIT
 
 2. Import the project in eclipse or your fav ID as existing maven project.
 
